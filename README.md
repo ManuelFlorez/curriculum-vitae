@@ -1,2 +1,3 @@
-# curriculum-vitae
-Manuel Florez's  the curriculum vitae
+# Curriculum Vitae
+
+Manuel Florez's  the **[curriculum vitae](https://manuelflorez.github.io/curriculum-vitae/)**.
